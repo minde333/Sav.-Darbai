@@ -1,0 +1,23 @@
+C:\Users\minjas2\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\minjas2\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\minjas2\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\minjas2\source\repos\ConsoleApp1\obj\Debug\2 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\minjas2\source\repos\ConsoleApp1\obj\Debug\2 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\minjas2\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\minjas2\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\bin\Debug\ConsoleApp1.exe.config
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\bin\Debug\ConsoleApp1.exe
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\bin\Debug\ConsoleApp1.pdb
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\obj\Debug\2 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\obj\Debug\2 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\obj\Debug\ConsoleApp1.exe
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\2 Savarankiskas\obj\Debug\ConsoleApp1.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\bin\Debug\ConsoleApp1.exe
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\bin\Debug\ConsoleApp1.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\obj\Debug\2 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\obj\Debug\2 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\obj\Debug\ConsoleApp1.exe
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\obj\Debug\ConsoleApp1.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\bin\Debug\ChemijosFakultetas.csv
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\2 Savarankiskas\bin\Debug\InformatikosFakultetas.csv

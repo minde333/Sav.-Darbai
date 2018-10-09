@@ -1,0 +1,22 @@
+C:\Users\minjas2\source\repos\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe.config
+C:\Users\minjas2\source\repos\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe
+C:\Users\minjas2\source\repos\1 Savarankiskas\bin\Debug\1 Savarankiskas.pdb
+C:\Users\minjas2\source\repos\1 Savarankiskas\obj\Debug\1 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\minjas2\source\repos\1 Savarankiskas\obj\Debug\1 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\minjas2\source\repos\1 Savarankiskas\obj\Debug\1 Savarankiskas.exe
+C:\Users\minjas2\source\repos\1 Savarankiskas\obj\Debug\1 Savarankiskas.pdb
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe.config
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\bin\Debug\1 Savarankiskas.pdb
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\obj\Debug\1 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\obj\Debug\1 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\obj\Debug\1 Savarankiskas.exe
+C:\Users\minjas2\OneDrive - Kaunas University of Technology\1 Savarankiskas\obj\Debug\1 Savarankiskas.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe.config
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\bin\Debug\1 Savarankiskas.exe
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\bin\Debug\1 Savarankiskas.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\obj\Debug\1 Savarankiskas.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\obj\Debug\1 Savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\obj\Debug\1 Savarankiskas.exe
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\obj\Debug\1 Savarankiskas.pdb
+C:\Users\Vartotojas\Desktop\OneDrive_1_2018-10-04\1 Savarankiskas\bin\Debug\Sav.D.1.Data.csv
